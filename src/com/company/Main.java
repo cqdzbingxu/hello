@@ -10,6 +10,7 @@ public class Main {
 	    System.out.print(Main.HELLO);private
 
         System.out.print("1");
+        System.out.print("2");
 
 
 
